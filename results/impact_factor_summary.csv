@@ -1,0 +1,10 @@
+species,climate,impact_factor,coverage_ratio,climate_suitability
+dandelion,temperate,35.82,0.1,0.979550822257441
+dandelion,arid,24.92,0.0301,0.394651545733427
+dandelion,tropical,20.37,0.0026,0.12667687798863464
+kudzu,temperate,34.76,0.0208,0.3200627637568599
+kudzu,arid,33.28,0.0145,0.23698340468570084
+kudzu,tropical,42.52,0.0494,0.7210058787201831
+purple_loosestrife,temperate,47.46,0.129,0.750787477667815
+purple_loosestrife,arid,36.98,0.0344,0.28212411993476
+purple_loosestrife,tropical,41.89,0.0807,0.5029085478783811
